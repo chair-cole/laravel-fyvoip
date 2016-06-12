@@ -1,0 +1,13 @@
+{
+    "name": "mumutou/laravel-fyvoip",
+    "description": "feiyu voip api for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chair.cole",
+            "email": "chair.cole@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"mumutou/fyvoip": "1.0"}
+}
